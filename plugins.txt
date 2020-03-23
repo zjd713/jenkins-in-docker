@@ -7,7 +7,7 @@ blueocean-bitbucket-pipeline:1.4.0
 blueocean-commons:1.4.0
 blueocean-config:1.4.0
 blueocean-dashboard:1.4.0
-blueocean-display-url:2.2.0
+blueocean-display-url:2.3.2
 blueocean-events:1.4.0
 blueocean-git-pipeline:1.4.0
 blueocean-github-pipeline:1.4.0
@@ -107,7 +107,7 @@ workflow-basic-steps:2.6
 workflow-cps-global-lib:2.9
 workflow-cps:2.44
 workflow-durable-task-step:2.18
-workflow-job:2.37
+workflow-job:2.17
 workflow-multibranch:2.17
 workflow-scm-step:2.6
 workflow-step-api:2.22
