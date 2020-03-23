@@ -26,8 +26,8 @@ branch-api:2.0.18
 build-timeout:1.19
 build-token-root:1.4
 cloudbees-folder:6.3
-credentials-binding:1.14
-credentials:2.1.16
+credentials-binding:1.21
+credentials:2.3.5
 display-url-api:2.2.0
 docker-build-publish:1.3.2
 docker-build-step:2.0
@@ -35,7 +35,7 @@ docker-commons:1.11
 docker-workflow:1.15
 durable-task:1.17
 ec2:1.38
-email-ext:2.61
+email-ext:2.69
 envinject:2.1.5
 extended-choice-parameter:0.76
 external-monitor-job:1.7
