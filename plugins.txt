@@ -60,14 +60,14 @@ javadoc:latest
 jquery-detached:1.2.1
 jquery:1.12.4-0
 junit:latest
-kubernetes:1.16.7
+kubernetes:latest
 ldap:latest
 maven-plugin:latest
 mailer:latest
 mapdb-api:latest
 matrix-auth:latest
 matrix-project:latest
-metrics:latestsaml
+metrics:latest
 momentjs:latest
 pam-auth:latest
 pipeline-build-step:latest
