@@ -33,7 +33,7 @@ docker-build-publish:latest
 docker-build-step:latest
 docker-commons:latest
 docker-workflow:latest
-durable-task:1.17
+durable-task:1.34
 ec2:latest
 email-ext:latest
 envinject:latest
@@ -63,7 +63,7 @@ junit:latest
 kubernetes:latest
 ldap:latest
 maven-plugin:latest
-mailer:latest
+mailer:1.30
 mapdb-api:latest
 matrix-auth:latest
 matrix-project:latest
@@ -110,7 +110,7 @@ workflow-cps:latest
 workflow-cps-global-lib:latest
 workflow-durable-task-step:2.8
 workflow-job:latest
-workflow-multibranch:latest
+workflow-multibranch:2.20
 workflow-scm-step:latest
 workflow-step-api:latest
 workflow-support:latest
