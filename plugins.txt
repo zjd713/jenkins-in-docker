@@ -7,7 +7,7 @@ blueocean-bitbucket-pipeline:1.4.0
 blueocean-commons:1.4.0
 blueocean-config:1.4.0
 blueocean-dashboard:1.4.0
-blueocean-display-url:2.3.2
+blueocean-display-url:2.2.0
 blueocean-events:1.4.0
 blueocean-git-pipeline:1.4.0
 blueocean-github-pipeline:1.4.0
