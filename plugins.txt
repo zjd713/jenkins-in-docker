@@ -22,7 +22,7 @@ blueocean-rest:1.22.0
 blueocean-web:1.22.0
 blueocean:1.22.0
 bouncycastle-api:latest
-branch-api:2.0.5
+branch-api:2.5.5
 build-timeout:latest
 build-token-root:latest
 cloudbees-folder:latest
@@ -75,7 +75,7 @@ pipeline-githubnotify-step:latest
 pipeline-graph-analysis:latest
 pipeline-input-step:latest
 pipeline-milestone-step:latest
-pipeline-model-api:1.2.7
+pipeline-model-api:1.6.0
 pipeline-model-declarative-agent:1.1.1
 pipeline-model-definition:1.2.7
 pipeline-model-extensions:latest
