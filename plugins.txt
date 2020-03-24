@@ -2,6 +2,7 @@ ace-editor:latest
 ant:latest
 antisamy-markup-formatter:latest
 authentication-tokens:latest
+authorize-project:1.3.0
 blueocean-autofavorite:latest
 blueocean-commons:1.22.0
 blueocean-dashboard:1.22.0
@@ -38,7 +39,7 @@ ec2:latest
 email-ext:latest
 extended-choice-parameter:0.78
 external-monitor-job:1.7
-favorite:2.3.2
+favorite:2.3.1
 git-changelog:1.45
 git-client:latest
 git-parameter:latest
@@ -57,7 +58,7 @@ icon-shim:latest
 jackson2-api:latest
 javadoc:latest
 jquery-detached:1.2.1
-jquery:1.12.4-1
+jquery:1.12.4-0
 junit:latest
 kubernetes:latest
 ldap:latest
